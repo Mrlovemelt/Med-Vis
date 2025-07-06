@@ -1,0 +1,50 @@
+
+@import url("http://fast.fonts.net/t/1.css?apiType=css&projectid=6df82dd7-02bf-4938-be10-3b274f6d8f03");
+    @font-face{
+        font-family:"Avenir Next World W05";
+        src:url("Fonts/bae40acb-d6f4-4286-8b5c-a268303f2bcf.woff2") format("woff2"),url("Fonts/de44dcbe-a981-426e-b310-c56554485383.woff") format("woff");
+font-weight: 250;
+font-style: normal;
+    }
+    @font-face{
+        font-family:"Avenir Next World W05";
+        src:url("Fonts/bc3c490b-c7c3-45d8-8c6a-9ccc1406532f.woff2") format("woff2"),url("Fonts/f7a6d562-196d-49d8-b9f1-608abebd07c0.woff") format("woff");
+font-weight: 250;
+font-style: italic;
+    }
+    @font-face{
+        font-family:"Avenir Next World W05";
+        src:url("Fonts/09ab0626-bb45-4650-acc8-0182d693df02.woff2") format("woff2"),url("Fonts/1397e812-9307-4267-8a99-8a22ea7c69c7.woff") format("woff");
+font-weight: 400;
+font-style: normal;
+    }
+    @font-face{
+        font-family:"Avenir Next World W05";
+        src:url("Fonts/b9c5b839-db56-4419-8fcb-6ab661babb1d.woff2") format("woff2"),url("Fonts/950b5788-cfdd-48d9-9d8a-523560042c5b.woff") format("woff");
+font-weight: 400;
+font-style: italic;
+    }
+    @font-face{
+        font-family:"Avenir Next World W05";
+        src:url("Fonts/0c8a5d21-8a14-4451-8145-695071809cb7.woff2") format("woff2"),url("Fonts/a9c2f4a1-e39a-4cf6-89f2-a7b56fd6ad18.woff") format("woff");
+font-weight: 600;
+font-style: normal;
+    }
+    @font-face{
+        font-family:"Avenir Next World W05";
+        src:url("Fonts/772aeba7-664a-4066-af8f-945ab2c222d2.woff2") format("woff2"),url("Fonts/58041a79-15c6-4c14-8c52-c9f070b4c9b7.woff") format("woff");
+font-weight: 600;
+font-style: italic;
+    }
+    @font-face{
+        font-family:"Avenir Next World W05";
+        src:url("Fonts/074dfc70-6436-4f4b-9314-d1e69287aea1.woff2") format("woff2"),url("Fonts/0c4cefca-3b78-44b9-8b2b-667bbabffe38.woff") format("woff");
+font-weight: 700;
+font-style: normal;
+    }
+    @font-face{
+        font-family:"Avenir Next World W05";
+        src:url("Fonts/471f2b8b-e0d5-45a0-b033-d1cdb57fba1b.woff2") format("woff2"),url("Fonts/263a3466-f84e-4779-ac84-4db209714ba6.woff") format("woff");
+font-weight: 700;
+font-style: italic;
+    }

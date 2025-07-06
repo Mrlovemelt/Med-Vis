@@ -1,0 +1,61 @@
+
+
+
+
+### **Core Technologies**
+- **Next.js** (v14.0.4)  
+  - React framework for server-rendered and statically generated applications.
+
+- **React** (v18.2.0)  
+  - UI library for building interactive user interfaces.
+
+- **TypeScript** (v5.3.3)  
+  - Typed superset of JavaScript for safer, more maintainable code.
+
+- **Supabase**  
+  - **@supabase/auth-helpers-nextjs** (v0.10.0)  
+    - Authentication helpers for Next.js.
+  - **@supabase/auth-helpers-react** (v0.5.0)  
+    - React hooks for Supabase authentication.
+  - **@supabase/supabase-js** (v2.49.4)  
+    - JavaScript client for Supabase (database, auth, storage).
+
+- **D3.js** (v7.8.5)  
+  - Data visualization library for creating interactive charts and graphs.
+
+---
+
+### **Styling & UI**
+- **Tailwind CSS** (v3.3.6)  
+  - Utility-first CSS framework for rapid UI development.
+- **@tailwindcss/forms** (v0.5.7)  
+  - Tailwind plugin for styling form elements.
+
+---
+
+### **Development Tools**
+- **ESLint** (v8.55.0)  
+  - Linting tool for JavaScript/TypeScript.
+- **PostCSS** (v8.4.32)  
+  - Tool for transforming CSS with plugins.
+- **Autoprefixer** (v10.4.16)  
+  - PostCSS plugin to parse CSS and add vendor prefixes.
+
+---
+
+### **Type Definitions**
+- **@types/d3** (v7.4.3)  
+- **@types/node** (v20.10.4)  
+- **@types/react** (v18.2.42)  
+- **@types/react-dom** (v18.2.17)  
+
+---
+
+### **Summary**
+- **Frontend:** Next.js, React, TypeScript, Tailwind CSS, D3.js  
+- **Backend/Database:** Supabase  
+- **Dev Tools:** ESLint, PostCSS, Autoprefixer  
+
+---
+
+Let me know if you need more details or help with any part of the stack!
